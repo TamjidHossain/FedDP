@@ -1,0 +1,4 @@
+Extract 'household_power_consumption.7z'
+Run 'heatMapGen_consumption.py' for correlation matrix
+Run 'dataProcessing_consumption.py' for processing the data
+Run 'fedDP_consumption.py' for adversarial federated learning
